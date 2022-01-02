@@ -7,9 +7,9 @@
  */
 
 const fs = require('fs')
-const packID = 'com.snowcorp.stickerly.android.stickercontentprovider b5e7275f-f1de-4137-961f-57becfad34f2'
-const playstore = 'https://play.google.com/store/apps/details?id=com.pubg.newstate&hl=in&gl=US'
-const itunes = 'https://apps.apple.com/us/app/pubg-mobile-3rd-anniversary/id1330123889'
+const 😎YOUTUBE😎 = 'https://youtube.com/c/UIFACTS'
+const 👑OWNER👑 = 'https://wa.me/7489934326'
+const 👑Facebook👑 = 'https://www.facebook.com/Umashankar31981'
 
 /**
  * @class Exif
